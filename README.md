@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My Name is Kiera Furneaux, She/Her, I'm a coder and web developer, and I'm currently working on an app to track my own Lego piece collection, and am learning code in Godot to make a 2d rail shooter, with plans to make a 3d rail shooter that uses a light gun as an input device.
+
+Pinned are a number of projects I've worked on in the last 4 months, and I'm keen to collaborate on other projects involving game making and Javascript app development.
+
+Message me at furneauxkiera@gmail.com if you'd like to collaborate on code or projects! 
 <!--
 **Lernaen/Lernaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
